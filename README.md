@@ -2,7 +2,7 @@
 
 
 ## Purpose of the Project
-The purpose of this project is to create a model to predict the COE prices in Singapore.
+The purpose of this project is to create a model to predict the COE prices in Singapore using FBprophet.
 
 The success metrics are:
 1. R2 score
