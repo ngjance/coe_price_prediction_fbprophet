@@ -59,7 +59,7 @@ The below data sets were downloaded from https://www.singstat.gov.sg/.
 2. The models do not seem to work as well from year 2022 onward, when there is a lot of global factors impacting Singapore's economy.
 
 
-### Application of Model
+## Application of Model
 This model only serves as a guide as it only uses local events data. That is, exogenous variables such as the global events that are happening and impacting Singapore’s economy are excluded.
 
 There are also many market insights that are unavailable through these data. Connecting with the car dealers, checking out the showrooms and car promotions to get a sense of the car sales is still something that I would recommend doing. This is to get a more real time indicator of the COE demand as the new vehicle registration data is a lagged indicator since vehicle owners have to secure a COE first before they can register their vehicles.
