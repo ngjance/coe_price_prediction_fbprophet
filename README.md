@@ -11,8 +11,13 @@ The success metrics are:
 
 
 ## Data Sets
-The data sets were downloaded from https://www.singstat.gov.sg/.
- 
+The below data sets were downloaded from https://www.singstat.gov.sg/.
+
+1. Motor Vehicle Population By Type Of Vehicle (End Of Period), Monthly
+2. New Registration Of Motor Vehicles Under Vehicle Quota System, Monthly
+3. Motor Vehicles De-registered Under Vehicle Quota System, Monthly
+4. Motor Vehicle Quota, Quota Premium And Prevailing Quota Premium, Monthly
+
 
 ## Data Cleaning
 
@@ -55,4 +60,8 @@ The data sets were downloaded from https://www.singstat.gov.sg/.
 
 
 ### Application of Model
-This model only serves as a guide, and users should consider other factors that might affects people's decision to purchase new vehicles in Singapore.# coe_price_prediction_fbprophet
+This model only serves as a guide as it only uses local events data. That is, exogenous variables such as the global events that are happening and impacting Singapore’s economy are excluded.
+
+There are also many market insights that are unavailable through these data. Connecting with the car dealers, checking out the showrooms and car promotions to get a sense of the car sales is still something that I would recommend doing. This is to get a more real time indicator of the COE demand as the new vehicle registration data is a lagged indicator since vehicle owners have to secure a COE first before they can register their vehicles.
+
+Lastly, users should consider other factors that might affect people's decision to purchase new vehicles in Singapore such as the car loan interest rate.
